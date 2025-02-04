@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **more about deep learning models**
 
-- 👨‍💻 All of my projects are available on [github](github)
+- 👨‍💻 All of my projects are available on **github**
 
-- 📝 I regularly read articles on [Daily dose of Data Science]
+- 📝 I regularly read articles on **Daily dose of Data Science**
 
 - 📫 How to reach me **rishitha221100@gmail.com**
 
